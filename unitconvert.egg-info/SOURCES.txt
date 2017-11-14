@@ -1,9 +1,0 @@
-setup.py
-unitconvert/__init__.py
-unitconvert/distance.py
-unitconvert/temperature.py
-unitconvert.egg-info/PKG-INFO
-unitconvert.egg-info/SOURCES.txt
-unitconvert.egg-info/dependency_links.txt
-unitconvert.egg-info/requires.txt
-unitconvert.egg-info/top_level.txt
